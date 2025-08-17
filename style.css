@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+div{
+    text-align: center;
+    color: aliceblue;
+}
+
+button{
+    height: 2.2;
+    width: 5.5em;
+    border: none;
+    color: aliceblue;
+    border-radius: 1mm;
+}
+
+.start{
+    background-color: chartreuse;   
+}
+
+.stop{
+    background-color: crimson;
+}
+
+.reset{
+    background-color: cornflowerblue;
+}
